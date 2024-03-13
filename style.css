@@ -1,8 +1,24 @@
-.div1{
-    position: absolute;
-    width: 30pix;
-    height: 100pix;
-    background-color: chocolate;
-
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+
+.navigation{
+  
+    width: 250px;
+    height: 100vh;
+     background-color:cornflowerblue;
+}
+.container{
+    position: absolute;
+    right: 0px;
+    
+    left: 275px;
+ 
+    
+    top:40%;
+    
+}
+
